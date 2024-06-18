@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 50px;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  p {
+    font-size: 18px;
+    margin: 20px 0;
+  }
+
+  .text{
+    max-width: 80%;
+    display: block;
+    margin-left: -px;
+    
+    
+  }
