@@ -1,8 +1,9 @@
-# React + Vite
+Certainly! Here’s a repository description focused on the speech-to-text implementation using React Speech Recognition:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## Speech to Text Converter Using React Speech Recognition
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This repository features a speech-to-text converter built with the `react-speech-recognition` library. It provides an efficient way to integrate speech recognition into React applications, enabling real-time conversion of spoken words into text. The component includes simple start and stop controls and displays both interim and final transcripts, enhancing the user experience with continuous listening and real-time feedback. Designed for reusability, this component can be easily integrated into future projects, offering flexibility and ease of customization. Contributions and improvements are welcome under the MIT License.
+
+---
